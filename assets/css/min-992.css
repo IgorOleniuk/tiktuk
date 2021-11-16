@@ -1,0 +1,28 @@
+header a {
+  font-size: 5rem;
+}
+
+.user-section {
+  display: flex;
+  align-items: center;
+}
+
+.user-profile-block__avatar {
+  margin: 0 5rem 0 3rem;
+}
+
+.user-profile-block__info h2 {
+  text-align: left;
+}
+
+.user-profile-block__info__stat {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
+  text-align: left;
+}
+
+.user-profile-block__info__stat p {
+  font-size: 1.8rem;
+  margin-right: 1rem;
+}

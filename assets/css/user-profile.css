@@ -1,0 +1,22 @@
+.user-profile-block {
+  text-align: center;
+}
+
+.user-profile-block__avatar {
+  width: 10rem;
+  height: 10rem;
+  margin-top: 2rem;
+}
+
+.user-profile-block__info {
+  margin: 2rem 0;
+}
+
+.user-profile-block__info h2 {
+  font-size: 3rem;
+  padding: 1rem;
+}
+
+.user-profile-block__info p {
+  font-size: 1.6rem;
+}
